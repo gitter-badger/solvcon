@@ -63,3 +63,8 @@ Additional build and tests:
   authentication to properly run them.
 
 .. vim: set ft=rst ff=unix fenc=utf8:
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/solvcon/solvcon
+   :target: https://gitter.im/solvcon/solvcon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
